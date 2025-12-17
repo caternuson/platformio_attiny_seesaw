@@ -1,0 +1,8 @@
+# Overview
+
+* Install PlatformIO into a Python venv and activate
+* Clone repo
+* Build ex: `pio run -e PID5681`
+
+
+
